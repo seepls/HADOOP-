@@ -17,3 +17,18 @@ DATA :
 structured (relational data ) , unstructured , sem structured . 
 
 mangoDB : NoSQL : advantage of cloud computing architecture .
+
+
+USER - > SYSTEM - >RDMS(relational database managment system ) 
+
+googles solution to deal with big data :
+Map Reduce (is an algorithm ) || data processed in parallel :divides task into small parts .assigns those parts to many components and collects back to get final result database .
+
+
+4 MODULES OF HADOOP :
+hadoop common : libraries provide file system and OS level abstraction .
+YARN :framework for jobscheduling and   cluster resource managment 
+HDFS :distributed storage .
+mapreduce : YARN based system for parallel processing. .of large data sets .
+
+CLUSTERS = NODE COLLECTION 
